@@ -1,31 +1,7 @@
 # practica_github
-
+# Romi
 # Fatesi
 # MilenaG
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#JUAN
-
+# JUAN
 # Sebastián Martínez
 # Fatesi
-
-
-
