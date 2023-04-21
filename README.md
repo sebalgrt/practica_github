@@ -1,3 +1,31 @@
 # practica_github
+
 # Fatesi
-# Milena
+# MilenaG
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#JUAN
+
+# Sebastián Martínez
+# Fatesi
+
+
+
