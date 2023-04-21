@@ -4,7 +4,6 @@
 # MilenaG
 # JUAN
 # Sebastián Martínez
-# Fatesi
 # Mauricio
 # Matias Nuñez
 # Auzuriel
