@@ -5,4 +5,3 @@
 # JUAN
 # Sebastián Martínez
 # Fatesi
-# Auzuriel
